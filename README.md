@@ -1,1 +1,1 @@
-# labo_scss_deel-1
+# Oplossing labo deel 1
